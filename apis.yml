@@ -1,4 +1,4 @@
-name: Secure-by-Default
+name: Secure-By-Default
 description: A security design principle where systems and software are configured
   with the most secure settings from the initial deployment, requiring users to explicitly
   opt-in to less secure options rather than having to manually enable security features.
